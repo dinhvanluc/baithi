@@ -1,0 +1,20 @@
+﻿.about_us {
+    display: grid;
+    grid-template-columns: 45% 52%;
+    column-gap: 3%;
+    padding: 30px;
+    
+}
+img {
+    width: 470px;
+}
+.about_us_content_main {
+    background-color: rgb(197, 187, 187);
+    padding: 10px;
+}
+.content_main_top {
+    display: grid;
+    grid-template-columns: repeat(2 1fr);
+    text-transform: uppercase;
+    color: chartreuse;
+}
